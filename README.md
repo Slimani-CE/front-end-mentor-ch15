@@ -1,5 +1,7 @@
 # Frontend Mentor - REST Countries API with color theme switcher solution
 
+![Preview](screenshots/dark-view.png)
+
 This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -9,6 +11,10 @@ This is a solution to the [REST Countries API with color theme switcher challeng
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+      - [1. Dark View](#1-dark-view)
+      - [2. Light View](#2-light-view)
+      - [3. Details](#3-details)
+      - [4. Details In Phone](#4-details-in-phone)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -30,9 +36,17 @@ Users should be able to:
 - Toggle the color scheme between light and dark mode
 
 ### Screenshot
+#### 1. Dark View
+![dark-view](screenshots/dark-view.png)
 
-![](screenshots/)
+#### 2. Light View
+![light-view](screenshots/light-view.png)
 
+#### 3. Details
+![details.png](screenshots/details.png)
+
+#### 4. Details In Phone
+![details-phone](screenshots/details-phone.png.png)
 ### Links
 
 - Solution URL: [here](https://github.com/Slimani-CE/front-end-mentor-ch15)
