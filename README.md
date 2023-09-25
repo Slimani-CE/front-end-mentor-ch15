@@ -46,7 +46,7 @@ Users should be able to:
 ![details.png](screenshots/details.png)
 
 #### 4. Details In Phone
-![details-phone](screenshots/details-phone.png.png)
+![details-phone](screenshots/details-phone.png)
 ### Links
 
 - Solution URL: [here](https://github.com/Slimani-CE/front-end-mentor-ch15)
